@@ -1,0 +1,2 @@
+ros_tutorial1_pkg:ros_tutorial_msg
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/yoon/catkin_ws2/devel -DCMAKE_INSTALL_PREFIX=/home/yoon/catkin_ws2/install
